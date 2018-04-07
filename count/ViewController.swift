@@ -27,6 +27,7 @@ class ViewController: UIViewController {
     @IBAction func plus(){
         number += 1
         label.text = String(number)
+        label.font = label.font.withSize(40)
         changeColor()
     }
     
