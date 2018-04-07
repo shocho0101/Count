@@ -14,6 +14,7 @@
 		CA6A1F39204D84CD00B8948E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CA6A1F37204D84CD00B8948E /* LaunchScreen.storyboard */; };
 		CA6A1F44204D84CE00B8948E /* countTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA6A1F43204D84CE00B8948E /* countTests.swift */; };
 		CA6A1F4F204D84CE00B8948E /* countUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA6A1F4E204D84CE00B8948E /* countUITests.swift */; };
+		CA6A1F5D204D853400B8948E /* maxresdefault.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CA6A1F5C204D853400B8948E /* maxresdefault.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		CA6A1F4A204D84CE00B8948E /* countUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = countUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CA6A1F4E204D84CE00B8948E /* countUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = countUITests.swift; sourceTree = "<group>"; };
 		CA6A1F50204D84CE00B8948E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CA6A1F5C204D853400B8948E /* maxresdefault.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = maxresdefault.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				CA6A1F35204D84CD00B8948E /* Assets.xcassets */,
 				CA6A1F37204D84CD00B8948E /* LaunchScreen.storyboard */,
 				CA6A1F3A204D84CD00B8948E /* Info.plist */,
+				CA6A1F5C204D853400B8948E /* maxresdefault.jpg */,
 			);
 			path = count;
 			sourceTree = "<group>";
@@ -233,6 +236,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CA6A1F39204D84CD00B8948E /* LaunchScreen.storyboard in Resources */,
+				CA6A1F5D204D853400B8948E /* maxresdefault.jpg in Resources */,
 				CA6A1F36204D84CD00B8948E /* Assets.xcassets in Resources */,
 				CA6A1F34204D84CD00B8948E /* Main.storyboard in Resources */,
 			);
